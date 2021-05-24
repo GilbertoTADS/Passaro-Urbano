@@ -1,4 +1,4 @@
-# PASSARO URBANO - É UMA LOJA ONLINE FICTÍCIA
+# PASSARO URBANO - É UM SITE PARA RESTAURANTES
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
